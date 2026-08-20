@@ -1,0 +1,18 @@
+{
+  "name": "Sistema Operativo Sunbrook",
+  "short_name": "Sunbrook",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#ff6b1a",
+  "description": "Operacion de montacargas y rampas - Sunbrook International Development",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
